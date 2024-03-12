@@ -1,0 +1,6 @@
+@LuckysCarsForSale_HostAddress = http://localhost:5036
+
+GET {{LuckysCarsForSale_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
